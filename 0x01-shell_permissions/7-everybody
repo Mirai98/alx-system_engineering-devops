@@ -1,2 +1,0 @@
-#!/bin/bash
-chmode 111 hello
